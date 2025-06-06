@@ -3,4 +3,11 @@
 •	GitHub setup
 •	Push & pull from remote
 •	Clone repositories
+🔧 Commands to Practice
+bash
+CopyEdit
+git remote add origin <repo-url>
+git push -u origin main
+git pull origin main
+git clone <repo-url>
 
